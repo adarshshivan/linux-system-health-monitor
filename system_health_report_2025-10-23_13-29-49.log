@@ -1,0 +1,42 @@
+===========================================
+🩺 SYSTEM HEALTH REPORT - Thu Oct 23 13:29:49 UTC 2025
+===========================================
+
+🕒 SYSTEM UPTIME:
+up 27 minutes
+
+💾 DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.5G     0  1.5G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.5G  4.0K  1.5G   1% /mnt/wsl
+drivers         476G  146G  330G  31% /usr/lib/wsl/drivers
+/dev/sdd       1007G  2.0G  954G   1% /
+none            1.5G   80K  1.5G   1% /mnt/wslg
+none            1.5G     0  1.5G   0% /usr/lib/wsl/lib
+rootfs          1.4G  2.7M  1.4G   1% /init
+none            1.5G  512K  1.5G   1% /run
+none            1.5G     0  1.5G   0% /run/lock
+none            1.5G     0  1.5G   0% /run/shm
+none            1.5G   76K  1.5G   1% /mnt/wslg/versions.txt
+none            1.5G   76K  1.5G   1% /mnt/wslg/doc
+C:\             476G  146G  330G  31% /mnt/c
+tmpfs           288M   20K  288M   1% /run/user/1000
+
+🧠 MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:           2.8Gi       380Mi       2.4Gi       3.5Mi       148Mi       2.4Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+🔥 CPU LOAD AVERAGE:
+ 0.00, 0.00, 0.00
+
+🔍 TOP 5 PROCESSES BY CPU USAGE:
+    PID COMMAND         %CPU %MEM
+    686 ps               100  0.1
+    658 system_health_m 22.7  0.1
+      1 systemd          0.1  0.4
+     97 systemd-udevd    0.0  0.2
+     48 systemd-journal  0.0  0.5
+
+✅ REPORT SAVED TO: system_health_report_2025-10-23_13-29-49.log
+===========================================
